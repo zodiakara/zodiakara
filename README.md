@@ -1,4 +1,14 @@
-### Hi there 👋
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=zodiakara&label=Profile%20views&color=0e75b6&style=flat" alt="zodiakara_profile_views" /> </p>
+
+<h1 align="center"> Hi there 👋 </h1>
+
+### 💫 About:
+⚡ My name is Agata and I'm a full-stack developer. I have architectural background which helps me build effective and beautiful web applications. <br/>
+🌱 I’m currently focusing on learning **Typescript** and improving skills in my main stack.
+
+### 📫 You can reach me here: **agata.orminska@gmail.com**
+
+
 
 <!--
 **zodiakara/zodiakara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +27,5 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zodiakara&theme=onedark_duo&border_radius=4)](https://git.io/streak-stats)
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zodiakara&" alt="zodiakara_ghstats" /></p>
