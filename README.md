@@ -4,7 +4,7 @@
 
 ### 💫 About:
 My name is Agata and I'm a full-stack developer. I love coding, astrology and my dog Roger. I have architectural background which helps me build effective and beautiful web applications. <br/>
-I’m currently focusing on learning **Typescript** and improving skills in my main stack.
+I’m currently focusing on mastering **Typescript** and expanding skills in my main stack.
 
 ### ⚡ My stack:
 BE: Node + Express, MongoDB, PostgreSQL <br/>
