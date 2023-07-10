@@ -8,7 +8,7 @@ I’m currently focusing on mastering **Typescript** and expanding skills in my 
 
 ### ⚡ My stack:
 BE: Node + Express, Java, MongoDB, PostgreSQL <br/>
-FE: HTML+CSS, Bootstrap, MUI, Javascript, React + Redux
+FE: HTML+CSS, Bootstrap, MUI, Javascript, React + Redux <br/>
 🖌️: Adobe Photoshop, Figma 
 
 ### 📫 You can reach me here: **agata.orminska@gmail.com**
