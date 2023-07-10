@@ -7,8 +7,9 @@ My name is Agata and I'm a full-stack developer. I love coding, astrology and my
 I’m currently focusing on mastering **Typescript** and expanding skills in my main stack.
 
 ### ⚡ My stack:
-BE: Node + Express, MongoDB, PostgreSQL <br/>
+BE: Node + Express, Java, MongoDB, PostgreSQL <br/>
 FE: HTML+CSS, Bootstrap, MUI, Javascript, React + Redux
+🖌️: Adobe Photoshop, Figma 
 
 ### 📫 You can reach me here: **agata.orminska@gmail.com**
 
